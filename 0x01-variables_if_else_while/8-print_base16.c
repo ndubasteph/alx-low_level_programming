@@ -5,7 +5,7 @@
  * Return: Always 0
  */
 
-intcmain(void)
+int main(void)
 {
 	int num;
 	char lc
